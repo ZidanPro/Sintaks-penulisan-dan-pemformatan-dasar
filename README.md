@@ -25,5 +25,6 @@ Example Video Preview Youtube
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-[![Alt text for your video](https://img.youtube.com/vi/f8dDzpvBSBU/0.jpg)](http://www.youtube.com/watch?v=f8dDzpvBSBU)
+```[![Alt text for your video](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO-ID)```
 
+[![Alt text for your video](https://img.youtube.com/vi/f8dDzpvBSBU/0.jpg)](http://www.youtube.com/watch?v=f8dDzpvBSBU)
