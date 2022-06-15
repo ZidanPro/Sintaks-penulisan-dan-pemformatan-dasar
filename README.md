@@ -22,3 +22,5 @@ You can also create a Markdown hyperlink by highlighting the text and using the 
 
 Example Video Preview Youtube
 [Preview](https://youtu.be/f8dDzpvBSBU).
+
+![This is an image](https://youtu.be/f8dDzpvBSBU)
