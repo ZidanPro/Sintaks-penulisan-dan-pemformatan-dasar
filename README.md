@@ -20,4 +20,5 @@ You can also create a Markdown hyperlink by highlighting the text and using the 
 
 ```This site was built using [GitHub Pages](https://pages.github.com/).```
 
-Example Video Preview Youtube [Preview :](https://youtu.be/f8dDzpvBSBU).
+Example Video Preview Youtube
+[Preview](https://youtu.be/f8dDzpvBSBU).
